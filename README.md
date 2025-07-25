@@ -1,16 +1,28 @@
 ## Hi there 👋
 
 <!--
-**Rohan-kewat/Rohan-kewat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋, I'm Rohan Kewat
 
-Here are some ideas to get you started:
+### 💼 Process Associate Turned Data Analyst | 📊 Power BI | Excel | SQL | Python Learner
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔄 Career transition from Chat Support to Data Analytics  
+- 📈 Built dashboards using Power BI to analyze customer trends  
+- 📊 Excel expert with experience in automating reports and data cleaning  
+- ✉️ Reach me at: rohan.your@email.com  
+- 🌐 LinkedIn: [linkedin.com/in/rohan-kewat](https://linkedin.com/in/rohan-kewat)
+
+---
+
+### 🛠️ Tools & Technologies
+
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
+
+---
+
+### 📌 Pinned Projects
+
+Check out my data projects and dashboards pinned below ⬇️
